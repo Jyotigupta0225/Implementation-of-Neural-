@@ -4,24 +4,24 @@ This repository is based on the first course (Neural Networks and Deep Learning)
 
 
 - #### [**Simple Neural Network**](https://github.com/Jyotigupta0225/Implementation-of-Neural-Network/tree/master/Neural%20Network%20(Scratch)/Simple%20Neural%20Network)</br>
-Neural Network having a single layer with only one neuron
+  Neural Network having a single layer with only one neuron
 
 
 - #### [**Shallow Neural Network(1 hidden layer)**](https://github.com/Jyotigupta0225/Implementation-of-Neural-Network/tree/master/Neural%20Network%20(Scratch)/Shallow%20Neural%20Network(1%20hidden%20layer))</br>
-Neural Network having a 1 hidden layer with 'n' neurons
+  Neural Network having a 1 hidden layer with 'n' neurons
 
 
 - #### [**Deep Neural Network(L hidden layers)**](https://github.com/Jyotigupta0225/Implementation-of-Neural-Network/tree/master/Neural%20Network%20(Scratch)/Deep%20Neural%20Network(L%20hidden%20layers))</br>
-Neural Network having 'L' layers with multiple neurons each
+  Neural Network having 'L' layers with multiple neurons each
 
 
 - #### [**Gradient Checking**](https://github.com/jyoti0225/Implementation-of-Neural-Network/blob/master/Gradient%20Checking/)</br>
-Checking the correct implementation of Gradient descent
+  Checking the correct implementation of Gradient descent
 
 
 - #### [**Regularization**](https://github.com/jyoti0225/Implementation-of-Neural-Network/tree/master/Regularization)</br>
-Implementation of the various regularization techniques like **L2 Regularization** and **DroupOut**
+  Implementation of the various regularization techniques like **L2 Regularization** and **DroupOut**
 
 
 - #### [**Optimization**](https://github.com/jyoti0225/Implementation-of-Neural-Network/tree/master/Optimization)</br>
-Implementation of various optimization methods like **Mini-batch**, **ADAM**, **RMS-prop**, and **Momentum**
+  Implementation of various optimization methods like **Mini-batch**, **ADAM**, **RMS-prop**, and **Momentum**
